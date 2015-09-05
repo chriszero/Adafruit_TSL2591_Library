@@ -1,0 +1,7 @@
+{
+  "name": "Adafruit_TSL2591",
+  "author": "Adafruit",
+  "license": "BSD License",
+  "version": "1.0.1",
+  "description": "Adafruits TSL2591 library"
+}
