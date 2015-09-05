@@ -52,7 +52,7 @@
  #include <Arduino.h>
 #endif
 #include "Adafruit_Sensor.h"
-#include <Wire.h>
+#include <application.h>
 
 #define TSL2591_VISIBLE           (2)       // channel 0 - channel 1
 #define TSL2591_INFRARED          (1)       // channel 1
